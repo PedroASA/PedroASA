@@ -16,7 +16,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=pedroasa&show_icons=true&locale=en" alt="pedroasa" style="max-width:25vw" />
 </p> -->
 
-<p align="right">
+<p align="center">
 <img  src="https://github-readme-stats.vercel.app/api?username=PedroASA&show_icons=true&theme=transparent&hide=stars&count_private=true" alt="pedroasa" />
 <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=pedroasa&show_icons=true&locale=en&layout=compact&theme=transparent&langs_count=10" alt="pedroasa" />
 </p>
