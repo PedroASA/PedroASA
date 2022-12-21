@@ -17,8 +17,8 @@
 </p> -->
 
 <p align="right">
-<img  src="https://github-readme-stats.vercel.app/api/top-langs?username=pedroasa&show_icons=true&locale=en&layout=compact&theme=transparent&langs_count=10" alt="pedroasa" />
-<img  src="https://github-readme-stats.vercel.app/api?username=PedroASA&show_icons=true&theme=transparent&hide=stars&count_private=true" alt="pedroasa" />
+  <img style="width:45%" src="https://github-readme-stats.vercel.app/api?username=PedroASA&show_icons=true&theme=transparent&hide=stars&count_private=true" alt="pedroasa" />
+<img style="width:45%" src="https://github-readme-stats.vercel.app/api/top-langs?username=pedroasa&show_icons=true&locale=en&layout=compact&theme=transparent&langs_count=10" alt="pedroasa" />
 </p>
 <!---
 PedroASA/PedroASA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
